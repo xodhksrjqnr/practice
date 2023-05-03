@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.ByteArrayOutputStreamTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-05-03T11:54:21" hostname="taewanui-MacBookAir.local" time="0.031">
+  <properties/>
+  <testcase name="toByteArray() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="write(int b) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="write(byte[] b, int off, int len) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="write(byte[] b) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.0"/>
+  <testcase name="flush() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="close() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="nullOutputStream() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="size() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="writeBytes(byte[] b) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <testcase name="write(byte[] b, int off, int len)에서 off나 len이 범위를 벗어난 경우" classname="io.ByteArrayOutputStreamTest" time="0.003"/>
+  <testcase name="writeTo(OutputSteam out) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.0"/>
+  <testcase name="toString() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.0"/>
+  <testcase name="toString(Charset charset) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.002"/>
+  <testcase name="toString(String charsetName) 테스트" classname="io.ByteArrayOutputStreamTest" time="0.002"/>
+  <testcase name="reset() 테스트" classname="io.ByteArrayOutputStreamTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

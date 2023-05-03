@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.ByteArrayInputStreamTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-05-03T11:54:21" hostname="taewanui-MacBookAir.local" time="0.064">
+  <properties/>
+  <testcase name="nullInputStream() 테스트" classname="io.ByteArrayInputStreamTest" time="0.033"/>
+  <testcase name="mark(int readlimit), reset() 테스트" classname="io.ByteArrayInputStreamTest" time="0.001"/>
+  <testcase name="read() 테스트" classname="io.ByteArrayInputStreamTest" time="0.002"/>
+  <testcase name="read(byte[] b, int off, int len) 테스트" classname="io.ByteArrayInputStreamTest" time="0.002"/>
+  <testcase name="close() 테스트" classname="io.ByteArrayInputStreamTest" time="0.002"/>
+  <testcase name="readNBytes(byte[] b, int off, int len) 테스트" classname="io.ByteArrayInputStreamTest" time="0.001"/>
+  <testcase name="read(byte[] b, int off, int len)에서 off이나 len이 범위를 벗어나는 경우" classname="io.ByteArrayInputStreamTest" time="0.006"/>
+  <testcase name="markSupported() 테스트" classname="io.ByteArrayInputStreamTest" time="0.001"/>
+  <testcase name="readNBytes(int len) 테스트" classname="io.ByteArrayInputStreamTest" time="0.001"/>
+  <testcase name="transferTo(OutputStream out) 테스트" classname="io.ByteArrayInputStreamTest" time="0.001"/>
+  <testcase name="available() 테스트" classname="io.ByteArrayInputStreamTest" time="0.002"/>
+  <testcase name="readAllBytes() 테스트" classname="io.ByteArrayInputStreamTest" time="0.0"/>
+  <testcase name="skip() 테스트" classname="io.ByteArrayInputStreamTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
